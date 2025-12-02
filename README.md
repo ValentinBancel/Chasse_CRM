@@ -309,13 +309,9 @@ docker-compose exec backend python seed_data.py
 
 ## 📝 TODO / Améliorations Futures
 
-- [ ] Ajout de photos pour les gibiers
 - [ ] Export des données en PDF/Excel
 - [ ] Graphiques plus avancés (évolution temporelle)
-- [ ] Application mobile (React Native)
-- [ ] Notifications push pour stock faible
 - [ ] Gestion des territoires de chasse
-- [ ] Partage de photos et commentaires
 - [ ] Mode hors ligne
 
 ## 📄 Licence
